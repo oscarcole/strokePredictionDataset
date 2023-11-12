@@ -7,6 +7,7 @@ Questions exploring a stroke dataset
 - Separated Blood Pressure Levels into top (*systolic*) and bottom (*diastolic*) with Systolic BP and Diastolic BP column naming.
 - Separated Cholesterol Levels into HDL and LDL column naming.
 - NULL values Symptoms column data was all changed to "No Symptoms Given".
+- Dataset pulled from a .csv file, but changed into a sqlite for querying
 
 
 ## Questions asked in dataset
@@ -20,3 +21,5 @@ Questions exploring a stroke dataset
 - What is the average stress level of patients with vs without heart disease?
 - What is the average HDL and LDL cholesterol of patients with vs without heart disease?
   
+## Resources
+Dataset pulled from Kaggle by user 'Fedesoriano'
